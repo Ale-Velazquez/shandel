@@ -1,0 +1,6 @@
+{
+  "name": "Shandel — Catálogo Digital de Pastelería",
+  "description": "Catálogo interactivo digital y panel de gestión para Pastelería Shandel con diseño artesanal premium en español mexicano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
